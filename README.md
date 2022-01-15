@@ -39,3 +39,9 @@ The largest county turnout was Denver County with 82.8% of the vote and 306,055 
 <img width="296" alt="Screen Shot 2022-01-15 at 8 19 44 AM" src="https://user-images.githubusercontent.com/95551195/149627073-58c82302-f61a-4cee-a7c4-06561acbd69f.png">
 
 ## Election-Audit Summary
+
+The script used to perform the audit can be used in subsequent elections to provide total vote tally results. This script can also be altered and serve purpose in numerous ways. For example, the script can be used in ranked chioce voting to highlight the percentage/total votes reflected with each candidate. In addition, adding more variables to the ballot itself (for ex, demographic information) can also be accounted for in a broader election analysis. With additional demographic information, alterations of the script itself can also provide further insight, such as turn out for local, county, district, and/or state elections. In this particular analysis, we utilized county lists & dictionaries, which can be further added to if wanting to expand or localize your election scope. 
+
+<img width="420" alt="Screen Shot 2022-01-15 at 8 25 54 AM" src="https://user-images.githubusercontent.com/95551195/149627264-54feda2f-656b-4ea5-a18f-fda54a19c631.png">
+
+
